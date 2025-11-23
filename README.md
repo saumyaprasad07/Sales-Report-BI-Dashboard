@@ -1,24 +1,25 @@
 📊 Sales Report Dashboard
 
 A simple Sales Report Dashboard built in Power BI for practice.
-This project helped me strengthen my skills in data modeling, visualization, and generating business insights.
+This project helped me strengthen my skills in data modeling, visualization, and generating business insights.\
 
-🔹 Highlights
+### 🔗 Live Dashboard  
+👉 **View the Sales Report Dashboard**  
+[Click here to open](https://app.powerbi.com/view?r=eyJrIjoiOTlhNTJkNDAtNzFkMS00NzYxLTkzNDctMmIwYzk5ZjRkOWE4IiwidCI6ImQxNzU2NzliLWFjZDMtNDY0NC1iZTgyLWFmMDQxOTgyOTc3YSIsImMiOjZ9)
 
-- KPI cards for Total Sales, Profit, Quantity
-- Monthly sales trend analysis
-- Category & Sub-category performance visuals
+### 🔹 Highlights
+- KPI cards for **Total Sales, Profit, Quantity**
+- Monthly **sales trend analysis**
+- **Category & Sub-category** performance visuals
 - Interactive filters for deeper exploration
 
-🛠️ Tools Used
+### 🛠️ Tools Used
+- **Power BI**
+- **DAX**
 
-- Power BI
-- DAX
-- Power Query
+### 📁 Files
+- `Sales_Report_BI_Dashboard.pbix` — Power BI dashboard
 
-📁 Files
-
-Sales_Report_BI_Dashboard.pbix - Power BI dashboard
 
 📸 Preview
 
