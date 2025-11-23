@@ -18,7 +18,7 @@ This project helped me strengthen my skills in data modeling, visualization, and
 
 📁 Files
 
-Sales_Report_Dashboard.pbix — Power BI dashboard
+Sales_Report_BI_Dashboard.pbix - Power BI dashboard
 
 📸 Preview
 
